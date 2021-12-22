@@ -3,13 +3,13 @@
 
 <h3 align="left">Algunos sitios web que he desarrollado junto a grandes profesionales:</h3>
 <ul>
-    <li><a href="https://arantxapouzolshair.es/" target="_blank">arantxapouzolshair.es</li>
-    <li><a href="https://dev.frutique.es/" target="_blank">dev.frutique.es</li>
-    <li><a href="http://limpiezasantoniocoronado.es/" target="_blank">limpiezasantoniocoronado.es</li>
-    <li><a href="https://celopmanfranquicias.com/" target="_blank">celopmanfranquicias.com</li>
-    <li><a href="https://gruposolarlighting.es/" target="_blank">gruposolarlighting.es</li>
-    <li><a href="https://minipar.es/" target="_blank">minipar.es</li>
-    <li><a href="https://donbarbers.com/" target="_blank">donbarbers.com</li>
+    <li><a href="https://arantxapouzolshair.es/" target="_blank" rel="noreferrer">arantxapouzolshair.es</li>
+    <li><a href="https://dev.frutique.es/" target="_blank" rel="noreferrer">dev.frutique.es</li>
+    <li><a href="http://limpiezasantoniocoronado.es/" target="_blank" rel="noreferrer">limpiezasantoniocoronado.es</li>
+    <li><a href="https://celopmanfranquicias.com/" target="_blank" rel="noreferrer">celopmanfranquicias.com</li>
+    <li><a href="https://gruposolarlighting.es/" target="_blank" rel="noreferrer">gruposolarlighting.es</li>
+    <li><a href="https://minipar.es/" target="_blank" rel="noreferrer">minipar.es</li>
+    <li><a href="https://donbarbers.com/" target="_blank" rel="noreferrer">donbarbers.com</li>
 <ul>
 
 <h3 align="left">Poseo experencia en las siguientes tecnologias:</h3>
