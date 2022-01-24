@@ -4,7 +4,7 @@
 <h4 align="left">Algunos sitios web que he desarrollado junto a grandes profesionales:</h4>
 <ul>
     <li><a href="https://arantxapouzolshair.es/" target="_blank" rel="noreferrer">arantxapouzolshair.es</li>
-    <li><a href="https://frutique.es/" target="_blank" rel="noreferrer">dev.frutique.es</li>
+    <li><a href="https://frutique.es/" target="_blank" rel="noreferrer">frutique.es</li>
     <li><a href="http://limpiezasantoniocoronado.es/" target="_blank" rel="noreferrer">limpiezasantoniocoronado.es</li>
     <li><a href="https://celopmanfranquicias.com/" target="_blank" rel="noreferrer">celopmanfranquicias.com</li>
     <li><a href="https://gruposolarlighting.es/" target="_blank" rel="noreferrer">gruposolarlighting.es</li>
